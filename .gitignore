@@ -1,6 +1,9 @@
 #/*
-!/week*/*
-!/week0/*
+# !/week*/*
+# !/week0/*
+#/week0/day2/escape-room/
+/week0/day2/escape-room/
+/week0/day2/.*
 /bash
 /before_ex
 /notbash

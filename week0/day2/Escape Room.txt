@@ -1,0 +1,14 @@
+﻿Escape Room
+
+
+Room                                Key
+1                                -
+2                                whatsupman
+3                                472
+4                                linuxisfun
+5                                crazyroom
+6                                fireofthephoenix
+7                                linuxpro
+8                                linuxmagic
+9                                coolproc
+10
